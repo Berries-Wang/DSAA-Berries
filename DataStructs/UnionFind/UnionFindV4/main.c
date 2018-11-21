@@ -5,6 +5,12 @@
 #include <stdio.h>
 #include "UnionFind.h"
 
+/**
+ * 并查集第四版
+ * @param argc
+ * @param argv
+ * @return
+ */
 
 int main(int argc, char **argv) {
 

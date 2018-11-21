@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/wei/WorkSpace/CProgram/clionProjects/DSA2/DataStructs/UnionFind/UnionFindV4/UnionFind.c" "/home/wei/WorkSpace/CProgram/clionProjects/DSA2/cmake-build-debug/CMakeFiles/DSA2.dir/DataStructs/UnionFind/UnionFindV4/UnionFind.c.o"
-  "/home/wei/WorkSpace/CProgram/clionProjects/DSA2/DataStructs/UnionFind/UnionFindV4/main.c" "/home/wei/WorkSpace/CProgram/clionProjects/DSA2/cmake-build-debug/CMakeFiles/DSA2.dir/DataStructs/UnionFind/UnionFindV4/main.c.o"
+  "/home/wei/WorkSpace/CProgram/DSA2/DataStructs/UnionFind/UnionFindV4/UnionFind.c" "/home/wei/WorkSpace/CProgram/DSA2/cmake-build-debug/CMakeFiles/DSA2.dir/DataStructs/UnionFind/UnionFindV4/UnionFind.c.o"
+  "/home/wei/WorkSpace/CProgram/DSA2/DataStructs/UnionFind/UnionFindV4/main.c" "/home/wei/WorkSpace/CProgram/DSA2/cmake-build-debug/CMakeFiles/DSA2.dir/DataStructs/UnionFind/UnionFindV4/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
