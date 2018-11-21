@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wei/WorkSpace/CProgram/clionProjects/DSA2/DataStructs/UnionFind/UnionFindV4/UnionFind.h
+stdlib.h
+-
+stdbool.h
+-
+
+/home/wei/WorkSpace/CProgram/clionProjects/DSA2/DataStructs/UnionFind/UnionFindV4/main.c
+stdio.h
+-
+UnionFind.h
+/home/wei/WorkSpace/CProgram/clionProjects/DSA2/DataStructs/UnionFind/UnionFindV4/UnionFind.h
+
