@@ -52,6 +52,17 @@ namespace SortAlgorithm {
         for (i = left + 1; i <= right; i++) {
             temp = array[i];
             for (j = i; j > left && temp < array[j - 1]; j--) {
+                // 为什么不将代码改入如下形式
+                /*
+
+                 for (j = i; j > left; j--) {
+                     // 因为假如这样写，则j的值会相比上一种写法小。因为j多减了一次。会导致排序出错
+                    if(temp < array[j - 1]){
+                        ......
+                    }
+                 }
+
+                */
                 array[j] = array[j - 1];
             }
 
