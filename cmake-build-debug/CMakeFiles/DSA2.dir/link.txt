@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/DSA2.dir/DataStructs/UnionFind/UnionFindV4/UnionFind.c.o CMakeFiles/DSA2.dir/DataStructs/UnionFind/UnionFindV4/main.c.o  -o DSA2 
