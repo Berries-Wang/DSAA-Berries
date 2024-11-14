@@ -34,7 +34,9 @@ int combinationSum4(int *nums, int numsSize, int target)
       }
     }
   }
-  return dp[target];
+  int res = dp[target];
+  free(dp);
+  return res;
 }
 
 int main(int argc, char **argv)
